@@ -28,12 +28,8 @@ body {
   background-color: #ddd;
   color: black;
   
-  .header a.active {
-    background-color: dodgerblue;
-    color: white;
-  }
-  .header-right {
-    float: right;
+  
+  
   }
   @media screen and (max-width: 500px) {
     .header a {
