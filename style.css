@@ -24,3 +24,6 @@ body {
   font-size: 25px;
   font-weight: bold;
 }
+.header a:hover {
+  background-color: #ddd;
+  color: black;
