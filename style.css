@@ -23,7 +23,8 @@ body {
 }
 .header a.logo {
   font-size: 25px;
-  font-weight: bold;
+  font-weight: bolder;
+  background: greenyellow;
 }
 .header a:hover {
   background-color: #ddd;
@@ -46,7 +47,7 @@ body {
   
 .body-inside {
      max-width:600px;
-     background-color:whitesmoke;
+     background-color:lightskyblue;
      min-height:1500px;
      margin:0 auto;
             }
@@ -73,7 +74,7 @@ h2{color:dimgray;
                   }
 
                   .contact{ min-height:100px;
-                    background:none;
+                    background:grey;
                     font-size:2em;
                     text-align: center;
                     margin-top: 20px;}
@@ -104,6 +105,7 @@ h2{color:dimgray;
                       font-size:1.7em;
                       text-align: center;
                       margin-top: 20px;}
+                      
               
               .contact span{ font-size:2.8em;
                   }
